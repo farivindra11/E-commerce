@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "rubi",
-    "password": "12345",
+    "username": "fariv",
+    "password": "fariv11",
     "database": "ormdb",
     "host": "127.0.0.1",
     "dialect": "postgres"
